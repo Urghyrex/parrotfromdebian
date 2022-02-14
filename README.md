@@ -1,21 +1,20 @@
 # Parrot Os From Debian Clean / Installation 
 
-Convert Your Debian Into Parrot OS Pentesting Mach1ne
+Convert Your Debian Into Parrot OS Pentesting
 
-Clone this into your Debian Installation
-chmod +x parrotfromdebian.sh
-./parrotfromdebian
-
-Follow Instructions - Should be around 12GB and reboot.
-
-Welcome to your Parrot OS Pentest1ng Mach1ne!
+```
+git clone https://github.com/Urghyrex/parrotfromdebian ~/parrot
+cd ~/parrot
+chmod +x ./parrotfromdebian
+```
 
 
+## Congratulations, you have successfully upgraded
 
-Written By Black Hat | Ethical Hacking.
+_\#Salam_SatuData._
 
-Security is a myth...
-
-https://www.blackhatethicalhacking.com
+> **Follow Instructions** - Should be around 12GB and don't forget to do ``sudo apt update && sudo apt full-upgrade -y`` then reboot.
+> Welcome to your Parrot Security OS Pentesting Machine!
+> Written by [@ditohd](https://instagram.com/dito.hd)
 
 
